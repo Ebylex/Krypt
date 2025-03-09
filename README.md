@@ -33,5 +33,4 @@ To start the development server, run the following command in the [client](http:
 ```sh
 npm run dev
 
-(https://i.ibb.co/DVF4tNW/image.png)
 
