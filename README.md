@@ -1,17 +1,37 @@
-# Krypt - Web 3.0 Blockchain Application
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+# Krypt
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Krypt is a web3.0 application that allows users to interact with the blockchain. This project is built using React and Vite.
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+## Features
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
+- Market
+- Exchange
+- Tutorials
+- Wallets
 
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
+## Installation
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+1. Clone the repository:
+    ```sh
+    git clone git@github.com:Ebylex/Krypt.git
+    ```
+
+2. Navigate to the [client](http://_vscodecontentref_/1) directory:
+    ```sh
+    cd Krypt/client
+    ```
+
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
+## Running the Application
+
+To start the development server, run the following command in the [client](http://_vscodecontentref_/2) directory:
+
+```sh
+npm run dev
+
+(https://i.ibb.co/DVF4tNW/image.png)
+
