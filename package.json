@@ -1,0 +1,20 @@
+{
+  "name": "project_web3.0-main",
+  "version": "1.0.0",
+  "description": "Krypt is a web3.0 application that allows users to interact with the blockchain. This project is built using React and Vite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebylex/Krypt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebylex/Krypt/issues"
+  },
+  "homepage": "https://github.com/Ebylex/Krypt#readme"
+}
